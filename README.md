@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Javier Cortes Morales
 
-<!--
-**DevLuisJ/DevLuisJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Angular** en transición | Full Stack | Bogotá, Colombia 🇨🇴
 
-Here are some ideas to get you started:
+## 🎯 Sobre mí
+Profesional en transición del sector automotriz (12 años) hacia desarrollo web. 
+Cursando **Ingeniería de Software** (semestre 3) + Diplomado Full Stack completado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He desarrollado una **aplicación Angular en producción** que mantengo activamente.
+Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
+
+## 🛠️ Tech Stack
+- **Frontend:** Angular 18+, TypeScript, TailwindCSS, Reactive Forms
+- **Backend:** Node.js, Express, LoopBack 4, REST APIs
+- **Bases de datos:** MongoDB, Firebase
+- **Herramientas:** Git, GitHub, Docker (básico), Postman
+- **Deploy:** Vercel, Netlify, Render
+
+## 📁 Proyectos Destacados
+1. https://cotizador-front-ruddy.vercel.app/ link de la aplicacion - Aplicacion web para cotizar equipos industriales
+   Repositorio git https://github.com/DevLuisJ/Cotizador-front.git - Frontend de aplicacion web de cotizador de equipos industriales - Angular 
+   Repositorio git https://github.com/DevLuisJ/Cotizador-back.git) -Backend de Aplicacion web para cotizar equipos en Angular, nodejs, loopback
+
+
+## 📊 Estadísticas
+- GitHub: Repositorios públicos
+- Commits: Activos y consistentes
+- Proyectos: 3+ completados
+
+## 🌐 Conecta conmigo
+- **LinkedIn:** www.linkedin.com/in/luisjavi83
+- **Email:** ljcortes83@hotmail.com
+- **Portafolio:** "En construccion"
+
+---
+*Aprendiendo diariamente. Open to opportunities in Bogotá.* 🚀
