@@ -30,7 +30,7 @@ Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
 ## 🌐 Conecta conmigo
 - **LinkedIn:** www.linkedin.com/in/luisjavi83
 - **Email:** ljcortes83@hotmail.com
-- **Portafolio:** "En construccion"
+
 
 ---
 *Aprendiendo diariamente. Open to opportunities in Bogotá.* 🚀
