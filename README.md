@@ -18,7 +18,10 @@ Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
 
 ## 📁 Proyectos Destacados
 1. https://cotizador-front-ruddy.vercel.app/ link de la aplicacion - Aplicacion web para cotizar equipos industriales
-   Repositorio git https://github.com/DevLuisJ/Cotizador-front.git - Frontend de aplicacion web de cotizador de equipos industriales - Angular 
+   Repositorio git https://github.com/DevLuisJ/Cotizador-front.git - Frontend de aplicacion web de cotizador de equipos industriales - Angular
+
+2.https://gestiontramites.vercel.app/   link de la aplicacion - Aplicacion web para gestion y tramites ante la secretaria de transito en Colombia
+   Repositorio git  https://github.com/DevLuisJ/Tramitapp
    
 
 
