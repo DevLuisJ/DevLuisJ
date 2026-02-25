@@ -20,7 +20,22 @@ Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
 1. https://cotizador-front-ruddy.vercel.app/ link de la aplicacion - Aplicacion web para cotizar equipos industriales
    Repositorio git https://github.com/DevLuisJ/Cotizador-front.git - Frontend de aplicacion web de cotizador de equipos industriales - Angular
 
-2.https://gestiontramites.vercel.app/   link de la aplicacion - Aplicacion web para gestion y tramites ante la secretaria de transito en Colombia
+2. **App_viable (Landing Page de Créditos)**
+   - Descripción: Landing page optimizada para la conversión de leads y gestión de productos financieros bajo una estrategia de Multibanca (17 entidades).
+   - Características: Hero de alto impacto, diseño Flexbox responsivo, soporte HTTPS y scroll suave.
+   - Estado: Desplegado y funcional.
+
+LOGROS RECIENTES:
+- Optimización de la sección HERO proyectando una imagen de velocidad y confianza.
+- Implementación de la estrategia de "Multibanca" (17 bancos aliados) en la sección de beneficios.
+- Refactorización de la sección de productos con CSS Flexbox para una alineación perfecta de tarjetas y botones.
+- Mejora de la experiencia de usuario (UX) con scroll-smooth y centrado automático de secciones.
+- Despliegue seguro en GitHub Pages.
+
+  <img width="1891" height="867" alt="image" src="https://github.com/user-attachments/assets/6b214671-e920-45a8-b7a8-dee08caac404" />
+
+
+3.https://gestiontramites.vercel.app/   link de la aplicacion - Aplicacion web para gestion y tramites ante la secretaria de transito en Colombia
    Repositorio git  https://github.com/DevLuisJ/Tramitapp
    
 
