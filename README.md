@@ -19,8 +19,10 @@ Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
 ## 📁 Proyectos Destacados
 1. https://cotizador-front-ruddy.vercel.app/ link de la aplicacion - Aplicacion web para cotizar equipos industriales
    Repositorio git https://github.com/DevLuisJ/Cotizador-front.git - Frontend de aplicacion web de cotizador de equipos industriales - Angular
+   <img width="1874" height="841" alt="image" src="https://github.com/user-attachments/assets/82ee10e8-d52c-4fc9-8a72-ad6ede5728ec" />
 
-2. **App_viable (Landing Page de Créditos)**
+3. **App_viable (Landing Page de Créditos)**
+   - www.viable-soluciones.com
    - Descripción: Landing page optimizada para la conversión de leads y gestión de productos financieros bajo una estrategia de Multibanca (17 entidades).
    - Características: Hero de alto impacto, diseño Flexbox responsivo, soporte HTTPS y scroll suave.
    - Estado: Desplegado y funcional.
