@@ -4,7 +4,7 @@ Desarrollador **Angular** en transición | Full Stack | Bogotá, Colombia 🇨�
 
 ## 🎯 Sobre mí
 Profesional en transición del sector automotriz (12 años) hacia desarrollo web. 
-Cursando **Ingeniería de Software** (semestre 3) + Diplomado Full Stack completado.
+Cursando **Ingeniería de Software** (semestre 5) + Diplomado Full Stack completado.
 
 He desarrollado una **aplicación Angular en producción** que mantengo activamente.
 Buscando primera oportunidad como Junior Developer en Bogotá (remoto/híbrido).
